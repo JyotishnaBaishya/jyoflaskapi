@@ -1,0 +1,532 @@
+[
+	{
+		"time": "2021-01-28 00:30:00",
+		"runtime": 903,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 00:50:00",
+		"runtime": 1591,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 01:10:00",
+		"runtime": 1801,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 01:30:00",
+		"runtime": 865,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 01:50:00",
+		"runtime": 846,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 02:10:00",
+		"runtime": 1276,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 02:30:00",
+		"runtime": 1387,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 02:50:00",
+		"runtime": 1117,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 03:10:00",
+		"runtime": 1442,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 03:30:00",
+		"runtime": 928,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 03:50:00",
+		"runtime": 1345,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 04:10:00",
+		"runtime": 1963,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 04:30:00",
+		"runtime": 733,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 04:50:00",
+		"runtime": 894,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 05:10:00",
+		"runtime": 1713,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 05:30:00",
+		"runtime": 1195,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 05:50:00",
+		"runtime": 797,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 06:10:00",
+		"runtime": 1565,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 06:30:00",
+		"runtime": 1133,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 06:50:00",
+		"runtime": 1423,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 07:10:00",
+		"runtime": 1222,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 07:30:00",
+		"runtime": 941,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 07:50:00",
+		"runtime": 849,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 08:10:00",
+		"runtime": 1005,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 08:30:00",
+		"runtime": 671,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 08:50:00",
+		"runtime": 1348,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 09:10:00",
+		"runtime": 1552,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 09:30:00",
+		"runtime": 1103,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 09:50:00",
+		"runtime": 1598,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 10:10:00",
+		"runtime": 1527,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 10:30:00",
+		"runtime": 1944,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 10:50:00",
+		"runtime": 1022,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 11:10:00",
+		"runtime": 1797,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 11:30:00",
+		"runtime": 653,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 11:50:00",
+		"runtime": 1761,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 12:10:00",
+		"runtime": 1765,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 12:30:00",
+		"runtime": 605,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 12:50:00",
+		"runtime": 1501,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 13:10:00",
+		"runtime": 845,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 13:30:00",
+		"runtime": 848,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 13:50:00",
+		"runtime": 1721,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 14:10:00",
+		"runtime": 692,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 14:30:00",
+		"runtime": 757,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 14:50:00",
+		"runtime": 1246,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 15:10:00",
+		"runtime": 1390,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 15:30:00",
+		"runtime": 1185,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 15:50:00",
+		"runtime": 1257,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 16:10:00",
+		"runtime": 1176,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 16:30:00",
+		"runtime": 1537,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 16:50:00",
+		"runtime": 1865,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 17:10:00",
+		"runtime": 805,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 17:30:00",
+		"runtime": 649,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 17:50:00",
+		"runtime": 1980,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 18:10:00",
+		"runtime": 1362,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 18:30:00",
+		"runtime": 984,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 18:50:00",
+		"runtime": 1028,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 19:10:00",
+		"runtime": 997,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 19:30:00",
+		"runtime": 679,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 19:50:00",
+		"runtime": 1802,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 20:10:00",
+		"runtime": 753,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 20:30:00",
+		"runtime": 984,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 20:50:00",
+		"runtime": 1924,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 21:10:00",
+		"runtime": 1951,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 21:30:00",
+		"runtime": 1308,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 21:50:00",
+		"runtime": 678,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 22:10:00",
+		"runtime": 1094,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 22:30:00",
+		"runtime": 642,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 22:50:00",
+		"runtime": 1052,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 23:10:00",
+		"runtime": 1686,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 23:30:00",
+		"runtime": 1037,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-28 23:50:00",
+		"runtime": 1282,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-29 00:10:00",
+		"runtime": 990,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-29 00:30:00",
+		"runtime": 1252,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-29 00:50:00",
+		"runtime": 881,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-29 01:10:00",
+		"runtime": 832,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-29 01:30:00",
+		"runtime": 924,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-29 01:50:00",
+		"runtime": 1602,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-29 02:10:00",
+		"runtime": 608,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-29 02:30:00",
+		"runtime": 1446,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-29 02:50:00",
+		"runtime": 1420,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-29 03:10:00",
+		"runtime": 1038,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-29 03:30:00",
+		"runtime": 1161,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-29 03:50:00",
+		"runtime": 1435,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-29 04:10:00",
+		"runtime": 1209,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-29 04:30:00",
+		"runtime": 1235,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-29 04:50:00",
+		"runtime": 617,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-29 05:10:00",
+		"runtime": 1972,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-29 05:30:00",
+		"runtime": 1499,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-29 05:50:00",
+		"runtime": 1074,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-29 06:10:00",
+		"runtime": 1269,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-29 06:30:00",
+		"runtime": 1368,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-29 06:50:00",
+		"runtime": 810,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-29 07:10:00",
+		"runtime": 614,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-29 07:30:00",
+		"runtime": 1951,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-29 07:50:00",
+		"runtime": 688,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-29 08:10:00",
+		"runtime": 1286,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-29 08:30:00",
+		"runtime": 1449,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-29 08:50:00",
+		"runtime": 1056,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-29 09:10:00",
+		"runtime": 1070,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-29 09:30:00",
+		"runtime": 809,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-29 09:50:00",
+		"runtime": 1325,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-29 10:10:00",
+		"runtime": 667,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-29 10:30:00",
+		"runtime": 1965,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-29 10:50:00",
+		"runtime": 1198,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-29 11:10:00",
+		"runtime": 1012,
+		"downtime": 0
+	},
+	{
+		"time": "2021-01-29 11:30:00",
+		"runtime": 867,
+		"downtime": 0
+	}
+]

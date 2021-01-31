@@ -1,0 +1,21 @@
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+	integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<style>
+	nav{
+		color:white;
+		padding-top: 25px;
+	}
+</style>
+<body>
+	{% block body %}
+	<nav class="navbar navbar-light bg-dark">
+		<h2>Welcome!!!</h2>
+	</nav>
+	<div class="col-12 col-md-5 mx-auto form p-4">
+		<h3>HOME</h3>
+		<p><a class="btn btn-info" href="/q1">Go to question 1</a></p>
+		<p><a class="btn btn-info" href="/q2">Go to question 2</a></p>
+		<p><a class="btn btn-info" href="/q3">Go to question 3</a></p>
+	</div>
+	{% endblock %}
+</body>
