@@ -28,7 +28,7 @@ def runs():
 		json_data=json.load(open('data/sample_json1.json'))
 		for pack in json_data:
 			dt_obj = datetime.datetime.strptime(pack["time"], '%Y-%m-%d %H:%M:%S')
-			if(dt_obj>=st and dt_obj<et):
+			if((st<=et and dt_obj>=st and dt_obj<et) or (st>et and dt_obj>=st or dt_obj<et)):
 				tm1=datetime.datetime.strptime("06:00:00", '%H:%M:%S')
 				tm2=datetime.datetime.strptime("14:00:00", '%H:%M:%S')
 				tm3=datetime.datetime.strptime("20:00:00", '%H:%M:%S')
@@ -63,7 +63,7 @@ def rundown():
 		json_data=json.load(open('data/sample_json2.json'))
 		for pack in json_data:
 			dt_obj=datetime.datetime.strptime(pack["time"], '%Y-%m-%d %H:%M:%S')
-			if(dt_obj>=st and dt_obj<=et):
+			if((st<=et and dt_obj>=st and dt_obj<=et) or (st>et and dt_obj>=st or dt_obj<=et)):
 				runtime+=min(pack["runtime"], 1021)
 				downtime+=(pack["downtime"]+max((pack["runtime"]-1021), 0))
 		utilisation=(runtime/(runtime+downtime))*100
@@ -85,7 +85,7 @@ def belts():
 		d1={}
 		for pack in json_data:
 			dt_obj=datetime.datetime.strptime(pack["time"], '%Y-%m-%d %H:%M:%S')
-			if(dt_obj>=st and dt_obj<=et):
+			if((st<=et and dt_obj>=st and dt_obj<=et) or (st>et and dt_obj>=st or dt_obj<=et)):
 				idd=pack["id"][2:]
 				idd=int(idd)
 				if d1.get(idd)==None:
